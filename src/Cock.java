@@ -1,4 +1,5 @@
 public class Cock {
+    //just added commet to chec uregistred comitted
     public static void main(String[] args) throws InterruptedException {
         Clock clock = new Clock();
         Thread clockThread = new Thread(clock);
